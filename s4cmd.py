@@ -49,8 +49,8 @@ TIMESTAMP_FORMAT = '%4s-%2s-%2s %2s:%2s'
 TEMP_FILES = set()
 
 # Environment variable names for S3 credentials.
-S3_ACCESS_KEY_NAME = "S3_ACCESS_KEY"
-S3_SECRET_KEY_NAME = "S3_SECRET_KEY"
+S3_ACCESS_KEY_NAME = "AWS_ACCESS_KEY"
+S3_SECRET_KEY_NAME = "AWS_SECRET_KEY"
 
 
 ##
